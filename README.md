@@ -140,18 +140,21 @@ The project aims to address the current shortcomings of the paper-based ticketin
 ## Design Modelling (Data Flow Diagram) <a name = "kuts_design"></a>
 
 ### Level 0 <a name = "kuts_level0"></a>
-  ![kuts_level0_img](images/Level%200%20KUTS.jpg)
-
-### Level 1.0 - Admin <a name = "kuts_level1.0_admin"></a>
-  ![kuts_level1.0_img](images/Level%201.0%20KUTS.jpg)
-
+  ![Level 0 KUTS](https://github.com/vishakhanpillai/KUTS-Documentation-Test/assets/73777663/a1265956-d6ed-418f-b5a3-c393c73b78e3)
+  
+### Level 1.0 - Admin <a name = "kuts_level1.0_admin">
+  ![Level 1 0 KUTS](https://github.com/vishakhanpillai/KUTS-Documentation-Test/assets/73777663/6942e3b3-21c5-418b-9588-4bb9d3dd2c58)
+  
 ### Level 1.1 - Passenger <a name = "kuts_level1.1_passenger"></a>
-  ![kuts_level1.1_img](images/Level%201.1%20KUTS.jpg)
+  ![Level 1 1 KUTS](https://github.com/vishakhanpillai/KUTS-Documentation-Test/assets/73777663/f07c0609-7117-4661-ad75-f7824f522302)
+
+
 
 ### Level 1.2 - Operator <a name = "kuts_level1.2_operator"></a>
-  ![kuts_level1.2_img](images/Level%201.2%20KUTS.jpg)
+  ![Level 1 2 KUTS](https://github.com/vishakhanpillai/KUTS-Documentation-Test/assets/73777663/26364653-3d95-4e55-9ae0-991b5989b6f8)
+
 
 ### Level 1.3 - Conductor <a name = "kuts_level1.3_conductor"></a>
-  ![kuts_level1.2_img](images/Level%201.3%20KUTS.jpg)
+  ![Level 1 3 KUTS](https://github.com/vishakhanpillai/KUTS-Documentation-Test/assets/73777663/67f1830e-e555-42b1-bfad-90500900c19f)
 
 
